@@ -2,8 +2,8 @@
 Logical Programming project using Prolog  for Programming Paradigms course
 
 ## The Pro-Wordle game is made up of two main phases:
-### 1 a knowledge base building phase and
-### 2 a game play phase.
+### 1- knowledge base building phase and
+### 2- game play phase.
 
 ## In the KB building phase
 the player is prompted to enter words with their categories.
